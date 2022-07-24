@@ -1,0 +1,10 @@
+div#txt {
+    width: 320px;
+    border: 1px solid;
+    padding: 40px;
+    text-align: center;
+    font-size: 50px;
+}
+img {
+    width: 100%;
+}
